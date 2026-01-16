@@ -24,7 +24,7 @@ timedelta: For adding/subtracting time periods (e.g., 30 days, 90 days)
 
 train_test_split: Splits data into training and testing sets  
 cross_val_score: Evaluates model performance using k-fold cross-validation  
-GridSearchCV: Systematic hyperparameter tuning (not used in this version but imported for future use  
+GridSearchCV: Systematic hyperparameter tuning 
 
 StandardScaler: Normalizes features to have mean=0 and std=1 (important for logistic regression)  
 LabelEncoder: Converts categorical text labels to numeric values (e.g., "M"→0, "F"→1)  
