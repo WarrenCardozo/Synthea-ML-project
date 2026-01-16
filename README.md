@@ -3,7 +3,7 @@ This project predicts which hospital patients are at risk of being readmitted wi
 
 We Create 10,000 synthetic patients using Synthea, and using 3 different Models such as Logistic regression, Random Forest, and Gradient Boosting, we then evaluate their performance.
 
-# Reasons for Imports 
+# Imports 
 ```
 import pandas as pd
 import numpy as np
